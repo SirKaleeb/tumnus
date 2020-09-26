@@ -1,0 +1,23 @@
+{
+  "name": "tumnus",
+  "version": "1.0.0",
+  "description": "A modern NodeJS utility library.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "tumnus",
+    "test",
+    "node-test",
+    "node test",
+    "node-utility",
+    "node utility",
+    "node-util",
+    "node util",
+    "utility",
+    "util"
+  ],
+  "author": "Caleb Hyatt <caleb@calebhyatt.com>",
+  "license": "MIT"
+}
