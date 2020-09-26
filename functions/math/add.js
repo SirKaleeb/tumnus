@@ -1,4 +1,4 @@
-let _ = function (array) {
+module.exports = (array) => {
   if (typeof array != Array) throw new Error("Input must be an array.");
   else {
     let sum = 0, acceptedInputs = [ String, Number ];
@@ -16,5 +16,3 @@ let _ = function (array) {
     return sum;
   }
 };
-
-module.exports = _;
