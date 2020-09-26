@@ -1,5 +1,5 @@
 let _ = function (array) {
-  if (typeof array !== Array) throw new Error("Input must be an array.");
+  if (typeof array != Array) throw new Error("Input must be an array.");
   else {
     let sum = 0, acceptedInputs = [ String, Number ];
 
